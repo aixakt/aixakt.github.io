@@ -13,3 +13,7 @@ screenshot.png
 assets/package.json
 assets/node_modules
 assets/gulpfile.js
+_examples
+_posts/.DS_Store
+.DS_Store
+.DS_Store
