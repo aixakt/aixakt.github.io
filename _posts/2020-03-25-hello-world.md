@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+feature-img: assets/img/pexels/story.jpeg
 author: aixakt
 tags: [Persönliches]
 ---

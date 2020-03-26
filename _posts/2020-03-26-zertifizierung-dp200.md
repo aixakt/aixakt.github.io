@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Vorbereitung auf die Microsoft-Prüfung DP-200
+feature-img: "assets/img/pexels/desk-messy.jpeg"
+#thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
+image: "assets/img/thumbnails/desk-messy.jpg" #seo tag
 author: aixakt
 tags: [Persönliches, Microsoft, Azure]
 ---
